@@ -1,0 +1,1 @@
+{"ip":"swaroopminecraft.aternos.me","name":"KINGS'SMP ","port":"31911"}
